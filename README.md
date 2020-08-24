@@ -22,6 +22,13 @@ Encrypt the following letters and characters into some code for 2 different meth
 encryptedStr = CryptoManager.encryptBellaso(plainTextTextField.getText().toUpperCase(), bellasoStr);
 
 # Section 5: Filesname
+https://github.com/hadao2001/Encryption/blob/master/CryptoManager.java
+https://github.com/hadao2001/Encryption/blob/master/CryptoManagerTest.java
+https://github.com/hadao2001/Encryption/blob/master/CryptoTestPublic.java
+https://github.com/hadao2001/Encryption/blob/master/Crypto_GFA_Test.java
+https://github.com/hadao2001/Encryption/blob/master/Crypto_JUnit_GFA_Test.java
+https://github.com/hadao2001/Encryption/blob/master/FXDriver.java
+https://github.com/hadao2001/Encryption/blob/master/FXMainPane.java
 
 # Section 6: Contact
 Created by hadao2001
