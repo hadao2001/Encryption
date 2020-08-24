@@ -12,6 +12,8 @@
 Encrypt the following letters and characters into some code for 2 different methods (Caesar Cipher and Bellaso Cipher).
 
 # Section 2: Screenshots
+https://github.com/hadao2001/Encryption/blob/master/Screen%20Shot%202020-08-24%20at%209.32.10%20PM.png
+https://github.com/hadao2001/Encryption/blob/master/Screen%20Shot%202020-08-24%20at%209.33.25%20PM.png
 
 # Section 3: Programs used
 - Eclipse
